@@ -5,3 +5,4 @@ C:\Users\Jessica\Documents\GitHub\QuadraticEquations\QuadraticEquations\obj\x86\
 C:\Users\Jessica\Documents\GitHub\QuadraticEquations\QuadraticEquations\obj\x86\Debug\QuadraticEquations.csproj.GenerateResource.Cache
 C:\Users\Jessica\Documents\GitHub\QuadraticEquations\QuadraticEquations\obj\x86\Debug\QuadraticEquations.exe
 C:\Users\Jessica\Documents\GitHub\QuadraticEquations\QuadraticEquations\obj\x86\Debug\QuadraticEquations.pdb
+C:\Users\Jessica\Documents\GitHub\QuadraticEquations\QuadraticEquations\obj\x86\Debug\QuadraticEquations.csprojResolveAssemblyReference.cache
